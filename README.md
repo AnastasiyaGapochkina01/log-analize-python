@@ -52,3 +52,6 @@ python load-generator.py http://localhost:9100 -r 1000 -c 50
 ```bash
 python3 dashboard.py
 ```
+Результат работы - в браузере на ip машины виден такой дашборд
+<img width="1436" alt="image" src="https://github.com/user-attachments/assets/a78b8f8c-d645-4c8e-89dd-18040bf6a0f4" />
+
